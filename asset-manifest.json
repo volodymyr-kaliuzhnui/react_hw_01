@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/volodymyr-kaliuzhnui/react_hw_01/static/css/main.499c66f7.chunk.css",
+    "main.js": "/volodymyr-kaliuzhnui/react_hw_01/static/js/main.68fc11bf.chunk.js",
+    "main.js.map": "/volodymyr-kaliuzhnui/react_hw_01/static/js/main.68fc11bf.chunk.js.map",
+    "runtime-main.js": "/volodymyr-kaliuzhnui/react_hw_01/static/js/runtime-main.c2d4996f.js",
+    "runtime-main.js.map": "/volodymyr-kaliuzhnui/react_hw_01/static/js/runtime-main.c2d4996f.js.map",
+    "static/js/2.a2c308ac.chunk.js": "/volodymyr-kaliuzhnui/react_hw_01/static/js/2.a2c308ac.chunk.js",
+    "static/js/2.a2c308ac.chunk.js.map": "/volodymyr-kaliuzhnui/react_hw_01/static/js/2.a2c308ac.chunk.js.map",
+    "static/js/3.75ea3a85.chunk.js": "/volodymyr-kaliuzhnui/react_hw_01/static/js/3.75ea3a85.chunk.js",
+    "static/js/3.75ea3a85.chunk.js.map": "/volodymyr-kaliuzhnui/react_hw_01/static/js/3.75ea3a85.chunk.js.map",
+    "index.html": "/volodymyr-kaliuzhnui/react_hw_01/index.html",
+    "static/css/main.499c66f7.chunk.css.map": "/volodymyr-kaliuzhnui/react_hw_01/static/css/main.499c66f7.chunk.css.map",
+    "static/js/2.a2c308ac.chunk.js.LICENSE.txt": "/volodymyr-kaliuzhnui/react_hw_01/static/js/2.a2c308ac.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c2d4996f.js",
+    "static/js/2.a2c308ac.chunk.js",
+    "static/css/main.499c66f7.chunk.css",
+    "static/js/main.68fc11bf.chunk.js"
+  ]
+}
