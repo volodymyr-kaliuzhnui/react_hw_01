@@ -1,0 +1,9 @@
+.with-title {
+    background-color: yellow;
+    padding: 30px;
+}
+
+.without-title {
+    background-color: royalblue;
+    padding: 30px;
+}
